@@ -7,4 +7,4 @@ _Hello World!_
 - 💬 Ask me about anything related to JavaScript.
 - 📫 How to reach me: You can email me at kulakev2006@gmail.com.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I don't have any fun facts at the moment.
+- ⚡ Fun fact: I achieve positive results in everything
